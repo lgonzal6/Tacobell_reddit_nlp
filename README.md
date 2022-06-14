@@ -1,4 +1,4 @@
-## Project 3 - Subreddit API and NLP
+## Subreddit API and NLP
 
 ### **Problem Statement**
 
